@@ -3,5 +3,7 @@ jdk:
   
 install:
    - echo "Running a custom install command"
-   - chmod u+x gradlew
+   mvn install -DskipTests
+   - chmod u+x gradlew mvnw
+   ./mvnw install -DskipTests
    - ./gradlew clean install -xtest

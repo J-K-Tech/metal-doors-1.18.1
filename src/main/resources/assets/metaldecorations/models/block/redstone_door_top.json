@@ -1,7 +1,0 @@
-{
-    "parent": "block/door_top",
-    "textures": {
-        "bottom": "metaldecorations:block/redstone_door_bottom",
-        "top": "metaldecorations:block/redstone_door_top"
-    }
-}

@@ -1,7 +1,0 @@
-{
-    "parent": "block/door_bottom_rh",
-    "textures": {
-        "bottom": "metaldecorations:block/netherite_door_bottom",
-        "top": "metaldecorations:block/netherite_door_top"
-    }
-}

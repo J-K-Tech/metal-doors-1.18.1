@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_bottom_rh",
+    "textures": {
+        "bottom": "metaldecorations:block/emerald_door_bottom",
+        "top": "metaldecorations:block/emerald_door_top"
+    }
+}

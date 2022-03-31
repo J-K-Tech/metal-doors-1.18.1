@@ -1,0 +1,19 @@
+{
+    "block.metaldecorations.gold_door":"Gold Door",
+    "block.metaldecorations.gold_trapdoor":"Gold Trapdoor",
+    "block.metaldecorations.diamond_door":"Diamond Door",
+    "block.metaldecorations.diamond_trapdoor":"Diamond Trapdoor",
+    "block.metaldecorations.lapis_door":"Lapis Door",
+    "block.metaldecorations.lapis_trapdoor":"Lapis Trapdoor",
+    "block.metaldecorations.netherite_door":"Netherite Door",
+    "block.metaldecorations.netherite_trapdoor":"Netherite Trapdoor",
+    "block.metaldecorations.copper_door":"Copper Door",
+    "block.metaldecorations.copper_trapdoor":"Copper Trapdoor",
+    "block.metaldecorations.emerald_door":"Emerald Door",
+    "block.metaldecorations.emerald_trapdoor":"Emerald Trapdoor",
+    "block.metaldecorations.redstone_trapdoor":"Redstone Trapdoor",
+    "block.metaldecorations.redstone_door":"Redstone Door",
+    "block.metaldecorations.coal_trapdoor":"Coal Trapdoor",
+    "block.metaldecorations.coal_door":"Coal Door",
+    "itemGroup.metaldecorations.metal_decorations":"Metal Decorations"
+}

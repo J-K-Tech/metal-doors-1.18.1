@@ -6,7 +6,7 @@ sourceCompatibility = JavaVersion.VERSION_17
 targetCompatibility = JavaVersion.VERSION_17
 
 version = 1.0
-group = com.J-K-Tech
+group = 'com.github.J-K-Tech'
 
 repositories {
 	mavenCentral()

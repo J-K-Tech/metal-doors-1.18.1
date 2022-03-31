@@ -1,0 +1,25 @@
+{
+    "replace": false,
+    "values": [
+      "metaldecorations:diamond_door",
+      "metaldecorations:gold_door",
+      "metaldecorations:diamond_trapdoor",
+      "metaldecorations:gold_trapdoor",
+      "metaldecorations:lapis_door",
+      "metaldecorations:lapis_trapdoor",
+      "metaldecorations:copper_door",
+      "metaldecorations:copper_trapdoor",
+      "metaldecorations:netherite_door",
+      "metaldecorations:netherite_trapdoor",
+      "metaldecorations:emerald_door",
+      "metaldecorations:emerald_trapdoor",
+      "metaldecorations:redstone_door",
+      "metaldecorations:redstone_trapdoor",
+      "metaldecorations:coal_door",
+      "metaldecorations:coal_trapdoor"
+
+
+
+    ]
+
+  }

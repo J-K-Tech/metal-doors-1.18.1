@@ -3,4 +3,5 @@ jdk:
   
 install:
    - echo "Running a custom install command"
+   - chmod u+x gradlew
    - ./gradlew clean install -xtest
